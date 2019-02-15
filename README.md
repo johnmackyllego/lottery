@@ -1,16 +1,16 @@
 # Lottery Dapps
 
+#### Contributors:
 
-** John Macky Llego **
-
-
-** Paul Kristian Erandio ** 
+**John Macky Llego**
 
 
-** Mark Renz Manalo ** 
+**Paul Kristian Erandio** 
 
 
-** Justine Mervic Berango **
+**Mark Renz Manalo** 
 
-** 
-Kevin Perez **
+
+**Justine Mervic Berango**
+
+**Kevin Perez**
