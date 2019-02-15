@@ -2,15 +2,15 @@
 
 #### Contributors:
 
-**John Macky Llego**
+**John Macky Llego** Repository Owner
 
 
-**Paul Kristian Erandio** 
+**Paul Kristian Erandio**  Contributor
 
 
-**Mark Renz Manalo** 
+**Mark Renz Manalo**  Contributor
 
 
-**Justine Mervic Berango**
+**Justine Mervic Berango** Contributor
 
-**Kevin Perez**
+**Kevin Perez** Contributor
