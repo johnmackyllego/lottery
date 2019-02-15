@@ -1,16 +1,16 @@
 # Lottery Dapps
 
+#### Contributors:
 
-** John Macky Llego **
-
-
-** Paul Kristian Erandio ** 
+**John Macky Llego** Repository Owner
 
 
-** Mark Renz Manalo ** 
+**Paul Kristian Erandio**  Contributor
 
 
-** Justine Mervic Berango **
+**Mark Renz Manalo**  Contributor
 
-** 
-Kevin Perez **
+
+**Justine Mervic Berango** Contributor
+
+**Kevin Perez** Contributor
