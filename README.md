@@ -15,7 +15,7 @@ These instructions have been tested on Ubuntu 18.10
 
 #### Contributors:
 
-* [John Macky Llego](https://github.com/johnmackyllego) - Repository Owner  
+* [John Machy Llego](https://github.com/johnmackyllego) - Repository Owner  
 * [Paul Kristian Erandio](https://github.com/tensaipaul) - Contributor  
 * [Mark Renz Manalo](https://github.com/mark-renz) - Contributor  
 * [Justine Mervic Berango](https://github.com/hustino) - Contributor  
