@@ -1,5 +1,7 @@
 # Lottery Process Flow Diagram
 
+Lotteries are an excellent use case for Ethereum. This repo will show the process flow diagram of lotteries in Ethereum and Hyperledger to show it's difference
+
 ## Ethereum
 Following are the process diagrams of the lottery games.
 
