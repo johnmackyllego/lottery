@@ -26,6 +26,7 @@ based on the number of winning numbers matched on your ticket.
 
 ## Contributors:
 
+* Use cases is based from a book that is tutorial for building games using ethereum
 * [John Machy Llego](https://github.com/johnmackyllego) - Repository Owner  
 * [Paul Kristian Erandio](https://github.com/tensaipaul) - Contributor  
 * [Mark Renz Manalo](https://github.com/mark-renz) - Contributor  
