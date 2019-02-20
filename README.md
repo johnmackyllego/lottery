@@ -1,19 +1,31 @@
-# Lottery App Using Hyperledger:
+# Lottery Process Flow Diagram
 
-## Use Hyperledger Fabric Network
+## Ethereum
+Following are the process diagrams of the lottery games.
 
-### Prerequisite
+### Simple Lottery
+[Simple Lottery](https://github.com/johnmackyllego/lottery/blob/master/ethereum/simple-lottery/Simple-lottery.jpg) - This simple-lottery is nonrecurring, uses blockhashes for random numbers, and has only
+one winner.
 
-These instructions have been tested on Ubuntu 18.10
+### Recurring Lottery
+[Recurring Lottery](https://github.com/johnmackyllego/lottery/blob/master/ethereum/recurring/RecurringLottery(eth).jpg) - The
+recurring lottery will occur in rounds so that a new prize pool is started every
+time the old one closes. It will also allow users to purchase multiple
+tickets in one transaction instead of just one and add a couple of security
+improvements
 
-* Bash - Bash scripts are needed to setup installation files
-* [GoLang](https://golang.org/) - 1.7.0 or higher
-* [Docker CE](https://www.docker.com/get-docker) - v1.13 or higher
-* [Docker Compose](https://docs.docker.com/compose/install/) - v1.8 or higher
-* [Node.js](https://nodejs.org/en/download/) - node v6.2+ or v8.1+ **(v9 and v10 are not supported)**
-* [xcode](https://developer.apple.com/xcode/) - only required for **OS X** users
+### RNG Lottery
+* [RNG Lottery](https://github.com/johnmackyllego/lottery/blob/master/ethereum/rng%20lottery/RNG%20Lotter.jpg) - The RNG Lottery is non-recurring, the numbers are randomly generated. Also after the round all users must reveal their tickets or else it will drop.
 
-#### Contributors:
+### Powerball
+* [John Machy Llego](https://github.com/johnmackyllego/lottery/blob/master/ethereum/powerball/Ethereum-PowerBall-Flow-Design.jpg) - In Powerball, the user picks six numbers per ticket. The first five
+numbers are standard numbers from 1–69, and the sixth number is a
+special Powerball number from 1–26 that offers extra rewards. Every three
+or four days, a drawing is held, and a winning ticket consisting of five
+standard numbers and a Powerball number is picked. Prizes are paid out
+based on the number of winning numbers matched on your ticket.
+
+## Contributors:
 
 * [John Machy Llego](https://github.com/johnmackyllego) - Repository Owner  
 * [Paul Kristian Erandio](https://github.com/tensaipaul) - Contributor  
