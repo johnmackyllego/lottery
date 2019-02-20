@@ -24,9 +24,8 @@ or four days, a drawing is held, and a winning ticket consisting of five
 standard numbers and a Powerball number is picked. Prizes are paid out
 based on the number of winning numbers matched on your ticket.
 
-# Hyperledger
-
-
+## Hyperledger
+Following are the process diagrams of the lottery games.
 
 * [Simple Lottery](https://github.com/johnmackyllego/lottery/blob/master/hyperledger/simple-lottery/hyperledger-simple-lottery.jpg) - The Simple Lottery in the Ethereum was translated into Hyperledger platform and every stake need to register into network to participate in the lottery hyperledger network.
 
@@ -35,9 +34,6 @@ based on the number of winning numbers matched on your ticket.
 * [RNG Lottery](https://raw.githubusercontent.com/johnmackyllego/lottery/master/hyperledger/RNG-Lottery/RNG.jpg) - The RNG Lottery was a counter park of Recurring Lottery, because the RNG Lottery does not reccur every round and only has one winner and the stake need to be a member to participate in the network
 
 * [Power Ball Lottery](https://github.com/johnmackyllego/lottery/tree/master/hyperledger/powerball) - The Power Ball Lottery is different from the other lotteries because the power ball draw the ticket every three or four days unlike in other lotteries that you can set the ticket round for the day, also the stakes need to be a member in the network to participate in the power ball lotttey.
-
-
-
 
 ## Contributors:
 
