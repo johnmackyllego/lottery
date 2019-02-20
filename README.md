@@ -28,13 +28,13 @@ based on the number of winning numbers matched on your ticket.
 
 
 
-*[Simple Lottery](https://github.com/johnmackyllego/lottery/blob/master/hyperledger/simple-lottery/hyperledger-simple-lottery.jpg) - The Simple Lottery in the Ethereum was translated into Hyperledger platform and every stake need to register into network to participate in the lottery hyperledger network.
+* [Simple Lottery](https://github.com/johnmackyllego/lottery/blob/master/hyperledger/simple-lottery/hyperledger-simple-lottery.jpg) - The Simple Lottery in the Ethereum was translated into Hyperledger platform and every stake need to register into network to participate in the lottery hyperledger network.
 
-*[Recurring Lottery](https://github.com/johnmackyllego/lottery/blob/master/hyperledger/Recurring/Recurring%20Hyper.jpg)  - The Recurring Lottery is a lottery that reccurs in rounds so that a new prize pool is started every time the old one closes.  The recurring in hyperledger the stake need to be a member in the hyperledger network to join in the lottery.
+* [Recurring Lottery](https://github.com/johnmackyllego/lottery/blob/master/hyperledger/Recurring/Recurring%20Hyper.jpg)  - The Recurring Lottery is a lottery that reccurs in rounds so that a new prize pool is started every time the old one closes.  The recurring in hyperledger the stake need to be a member in the hyperledger network to join in the lottery.
 
-*[RNG Lottery](https://raw.githubusercontent.com/johnmackyllego/lottery/master/hyperledger/RNG-Lottery/RNG.jpg) - The RNG Lottery was a counter park of Recurring Lottery, because the RNG Lottery does not reccur every round and only has one winner and the stake need to be a member to participate in the network
+* [RNG Lottery](https://raw.githubusercontent.com/johnmackyllego/lottery/master/hyperledger/RNG-Lottery/RNG.jpg) - The RNG Lottery was a counter park of Recurring Lottery, because the RNG Lottery does not reccur every round and only has one winner and the stake need to be a member to participate in the network
 
-*[Power Ball Lottery](https://github.com/johnmackyllego/lottery/tree/master/hyperledger/powerball) - The Power Ball Lottery is different from the other lotteries because the power ball draw the ticket every three or four days unlike in other lotteries that you can set the ticket round for the day, also the stakes need to be a member in the network to participate in the power ball lotttey.
+* [Power Ball Lottery](https://github.com/johnmackyllego/lottery/tree/master/hyperledger/powerball) - The Power Ball Lottery is different from the other lotteries because the power ball draw the ticket every three or four days unlike in other lotteries that you can set the ticket round for the day, also the stakes need to be a member in the network to participate in the power ball lotttey.
 
 
 
