@@ -3,19 +3,19 @@
 ## Ethereum
 Following are the process diagrams of the lottery games.
 
-* [### Simple Lottery](https://github.com/johnmackyllego/lottery/blob/master/ethereum/simple-lottery/Simple-lottery.jpg) - This simple-lottery is nonrecurring, uses blockhashes for random numbers, and has only
+* [Simple Lottery](https://github.com/johnmackyllego/lottery/blob/master/ethereum/simple-lottery/Simple-lottery.jpg) - This simple-lottery is nonrecurring, uses blockhashes for random numbers, and has only
 one winner.
 
-* [### Recurring Lottery](https://github.com/johnmackyllego/lottery/blob/master/ethereum/recurring/RecurringLottery(eth).jpg) - The
+* [Recurring Lottery](https://github.com/johnmackyllego/lottery/blob/master/ethereum/recurring/RecurringLottery(eth).jpg) - The
 recurring lottery will occur in rounds so that a new prize pool is started every
 time the old one closes. It will also allow users to purchase multiple
 tickets in one transaction instead of just one and add a couple of security
 improvements
 
-* [### RNG Lottery](https://github.com/johnmackyllego/lottery/blob/master/ethereum/rng%20lottery/RNG%20Lotter.jpg) - The RNG Lottery is non-recurring, the numbers are randomly generated. Also after the round all users must reveal their tickets or else it will drop.
+* [RNG Lottery](https://github.com/johnmackyllego/lottery/blob/master/ethereum/rng%20lottery/RNG%20Lotter.jpg) - The RNG Lottery is non-recurring, the numbers are randomly generated. Also after the round all users must reveal their tickets or else it will drop.
 
 
-* [### Powerball](https://github.com/johnmackyllego/lottery/blob/master/ethereum/powerball/Ethereum-PowerBall-Flow-Design.jpg) - In Powerball, the user picks six numbers per ticket. The first five
+* [Powerball](https://github.com/johnmackyllego/lottery/blob/master/ethereum/powerball/Ethereum-PowerBall-Flow-Design.jpg) - In Powerball, the user picks six numbers per ticket. The first five
 numbers are standard numbers from 1–69, and the sixth number is a
 special Powerball number from 1–26 that offers extra rewards. Every three
 or four days, a drawing is held, and a winning ticket consisting of five
