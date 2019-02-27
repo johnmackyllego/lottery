@@ -1,0 +1,28 @@
+.example-form {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.container{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+.container .mat-drawer{
+   
+  min-width: 200px;
+}
+.container .mat-drawer .mat-button{
+  display: block;
+  width: 100%;
+  text-align: left;
+}
+

@@ -1,0 +1,65 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<mat-drawer-container class="container" autosize>
+  <mat-drawer #drawer class="sidenav" mode="side">
+    <button color="primary" mat-button routerLink="">Simple Lottery</button>
+    <button color="primary" mat-button routerLink="">Recurring Lottery</button>
+    <button color="primary" mat-button routerLink="">RNG Lottery</button>
+    <button color="primary" mat-button routerLink="">Power Ball</button>
+    </mat-drawer>
+
+    <div class="sidenav-content">
+        <mat-toolbar color="primary">
+            <mat-toolbar-row>
+                    <button mat-icon-button (click)="drawer.toggle()">
+                            <mat-icon>menu</mat-icon>
+                        </button>
+                        <span>Hyperledger Lottries</span>
+                        </mat-toolbar-row>
+                        </mat-toolbar>
+    </div>
+
+
+    <div style="text-align:center">
+
+        <img width="300" alt="Hyperledger logo" src="https://cdn-images-1.medium.com/max/1600/1*NWdPPj6NvicKqZUq9MMlmA.png">
+    
+      </div>
+      <h1>
+        Register Here
+      </h1>
+      <form class="example-form">
+        <table class="example-full-width" cellspacing="0"><tr>
+          <td><mat-form-field class="example-full-width">
+            <input matInput placeholder="First name">
+          </mat-form-field></td>
+          <td><mat-form-field class="example-full-width">
+            <input matInput placeholder="Lastname">
+          </mat-form-field></td>
+        </tr></table>
+      
+        <p>
+          <mat-form-field class="example-full-width">
+            <textarea matInput placeholder="Address"></textarea>
+          </mat-form-field>
+        </p>
+        <table class="example-full-width" cellspacing="0"><tr>
+          <td><mat-form-field class="example-full-width">
+            <input matInput placeholder="City">
+          </mat-form-field></td>
+          <td><mat-form-field class="example-full-width">
+            <input matInput #postalCode maxlength="4" placeholder="Postal Code">
+            <mat-hint align="end">{{postalCode.value.length}} / 4</mat-hint>
+          </mat-form-field></td>
+        </tr></table>
+        <button mat-raised-button color="warn">Primary</button>
+      </form>
+
+
+
+
+    </mat-drawer-container>
+
+
+
+
+
